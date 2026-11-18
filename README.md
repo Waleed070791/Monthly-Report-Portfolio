@@ -41,11 +41,11 @@ The report output depends on the SharePoint source data, Power Query transformat
 
 ### Executive overview
 
-![Executive overview](images/EXC Overview.png)
+![Executive overview](images/EXCOverview.png)
 
 ### Production and quality
 
-![Production and quality](images/P&Q Dashhoard.png)
+![Production and quality](images/P&QDashhoard.png)
 
 ### TestBay
 
