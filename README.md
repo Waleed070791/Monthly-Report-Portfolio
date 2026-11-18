@@ -2,7 +2,7 @@
 # Production & HSEQ Monthly Report — Dashboard Design Case Study
 
 A technical case study of an Production and HSEQ monthly reporting solution, using the October 2026 presentation as the visual reference.
-Data protection: Figures and identifying details have been anonymized to protect confidentiality and support data security and governance. The screenshots are for illustrative purposes and may not reflect actual operational results.
+*Data protection: Figures and identifying details have been anonymized to protect confidentiality and support data security and governance. The screenshots are for illustrative purposes and may not reflect actual operational results.
 
 ## Overview
 
