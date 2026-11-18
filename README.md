@@ -41,15 +41,20 @@ The report output depends on the SharePoint source data, Power Query transformat
 
 ### Executive overview
 
-![Executive overview](images/EXCOverview.png)
+![Executive overview](images/EXC-Overview.png)
 
 ### Production and quality
 
-![Production and quality](images/P&QDashhoard.png)
+![Production and quality](images/P&Q-Dashhoard.png)
 
 ### TestBay
 
 ![TestBay](images/Testbay.png)
+
+### Semantic Model Example
+
+![Semantic Model](images/Semantic-Model-Partial.png)
+
 
 ## Design focus
 
