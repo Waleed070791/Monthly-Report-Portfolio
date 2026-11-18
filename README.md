@@ -46,7 +46,7 @@ The report output depends on the SharePoint source data, Power Query transformat
 
 ### Production and quality
 
-![Production and quality](images/P&Q-Dashhoard.png)
+![Production and quality](images/P&Q-Dashboard.png)
 
 ### TestBay
 
