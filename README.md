@@ -1,5 +1,5 @@
 # Monthly-Report-Portfolio
-# HSEQ Monthly Report — Dashboard Design Case Study
+# Production & HSEQ Monthly Report — Dashboard Design Case Study
 
 A technical case study of an Production and HSEQ monthly reporting solution, using the October 2026 presentation as the visual reference.
 
