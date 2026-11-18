@@ -73,9 +73,3 @@ The report output depends on the SharePoint source data, Power Query transformat
 - DAX — KPI and reporting calculations
 - Microsoft Power BI — report visuals
 - Microsoft PowerPoint — visual design reference
-
-## Notes
-
-The screenshots in this repository are from the presentation master and illustrate the intended design. They do not, by themselves, demonstrate a completed interactive Power BI report.
-
-Before making this repository public, confirm that the screenshots and any company information shown in them are approved for public sharing. Do not publish SharePoint URLs, workspace identifiers, credentials, employee-level records, or confidential company data.
